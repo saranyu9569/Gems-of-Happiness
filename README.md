@@ -7,7 +7,7 @@
 - **Two-player gameplay**: Play against a friend in a competitive head-to-head game.
 - **Gems and Cards**: Collect and manage different types of gems, and purchase development cards to earn prestige points.
 - **Strategy**: Plan and strategize your moves to outsmart your opponent and win the game.
-- **Easy-to-use Interface**: User-friendly command-line interface to interact with the game.
+- **Easy-to-use Interface**: User-friendly GUI interface to interact with the game.
 
 ## Installation
 
@@ -37,7 +37,7 @@ Refer to the in-game instructions for more detailed rules and strategies.
 
 - Java (for game logic and interface)
 - Object-Oriented Programming (OOP) principles for clean code structure
-- Command-Line Interface (CLI) for gameplay
+- Graphic User Interface (GUI) for gameplay
 
 ## Contributing
 
